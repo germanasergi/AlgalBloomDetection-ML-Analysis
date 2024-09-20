@@ -13,4 +13,5 @@ In this [link](https://drive.google.com/drive/u/1/folders/1WJomKqlBhjyT92eQfpvTn
 - dataset (images and ground truth)
 - Project_Model.ipynb
 - three empty folders (regions, features, prediction_maps) necessary to run the code
+
 The code is also available in the present repository
